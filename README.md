@@ -9,7 +9,7 @@
 | Name  | Student ID | Tutorial group | GitHub username |
 |---|---|---|---|
 | [Hady Ayman] | [16001639] | [T09] | [hadyayman288] |
-| [Name] | [ID] | [T#] | [username] |
+| [Yehia Elaidy] | [16004902] | [T09] | [yehiaelaidy] |
 | [Name] | [ID] | [T#] | [username] |
 | [Name] | [ID] | [T#] | [username] |
 | [Name] | [ID] | [T#] | [username] |
@@ -49,7 +49,7 @@ Liberty & Lotus (L&L) is a made-up travel agency website for travelers from anyw
 | Member | Use case |
 |---|---|
 | [Name] | 1. Registration and login |
-| [Name] | 2. Manage trips (admin) |
+| [yehia elaidy] | 2. Manage trips (admin) |
 | [Name] | 3. Book a trip |
 | [Name] | 4. Change or cancel a booking |
 | [Name] | 5. Write a review |
