@@ -10,9 +10,9 @@
 |---|---|---|---|
 | [Hady Ayman] | [16001639] | [T09] | [hadyayman288] |
 | [Yehia Elaidy] | [16004902] | [T09] | [yehiaelaidy] |
-| [Adham Youssef] | [16002868] | [T9] | [adhamahmed06] |
-| [Raouf Zidan] | [16007363] | [T9] | [raoufzidan] |
-| [Adham mohamed] | [16004552] | [t9] | [raga2i2007-dev] |
+| [Adham Youssef] | [16002868] | [T09] | [adhamahmed06] |
+| [Raouf Zidan] | [16007363] | [T09] | [raoufzidan] |
+| [Adham mohamed] | [16004552] | [T09] | [raga2i2007-dev] |
 | [Name] | [ID] | [T#] | [username] |
 
 ## 2. The idea
@@ -52,7 +52,7 @@ Liberty & Lotus (L&L) is a made-up travel agency website for travelers from anyw
 | [yehia elaidy] | 2. Manage trips (admin) |
 | [Raouf Zidan] | 3. Book a trip |
 | [Adham mohamed] | 4. Change or cancel a booking |
-| [Name] | 5. Write a review |
+| [Hady Ayman] | 5. Write a review |
 | [Name] | 6. Save trips to a wishlist |
 
 ## 5. Data model
