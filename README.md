@@ -12,7 +12,7 @@
 | [Yehia Elaidy] | [16004902] | [T09] | [yehiaelaidy] |
 | [Adham Youssef] | [16002868] | [T9] | [adhamahmed06] |
 | [Raouf Zidan] | [16007363] | [T9] | [raoufzidan] |
-| [Name] | [ID] | [T#] | [username] |
+| [Adham mohamed] | [16004552] | [t9] | [raga2i2007-dev] |
 | [Name] | [ID] | [T#] | [username] |
 
 ## 2. The idea
@@ -51,7 +51,7 @@ Liberty & Lotus (L&L) is a made-up travel agency website for travelers from anyw
 | [Adham Ahmed] | 1. Registration and login |
 | [yehia elaidy] | 2. Manage trips (admin) |
 | [Raouf Zidan] | 3. Book a trip |
-| [Name] | 4. Change or cancel a booking |
+| [Adham mohamed] | 4. Change or cancel a booking |
 | [Name] | 5. Write a review |
 | [Name] | 6. Save trips to a wishlist |
 
