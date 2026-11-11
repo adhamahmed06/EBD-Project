@@ -13,7 +13,7 @@
 | [Adham Youssef] | [16002868] | [T09] | [adhamahmed06] |
 | [Raouf Zidan] | [16007363] | [T09] | [raoufzidan] |
 | [Adham mohamed] | [16004552] | [T09] | [raga2i2007-dev] |
-| [Name] | [ID] | [T#] | [username] |
+| [Ziad Hesham] | [16006822] | [T02] | [ziadahmed218] |
 
 ## 2. The idea
 
@@ -53,7 +53,7 @@ Liberty & Lotus (L&L) is a made-up travel agency website for travelers from anyw
 | [Raouf Zidan] | 3. Book a trip |
 | [Adham mohamed] | 4. Change or cancel a booking |
 | [Hady Ayman] | 5. Write a review |
-| [Name] | 6. Save trips to a wishlist |
+| [Ziad Hesham] | 6. Save trips to a wishlist |
 
 ## 5. Data model
 
