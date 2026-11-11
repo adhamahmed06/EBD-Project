@@ -10,7 +10,7 @@
 |---|---|---|---|
 | [Hady Ayman] | [16001639] | [T09] | [hadyayman288] |
 | [Yehia Elaidy] | [16004902] | [T09] | [yehiaelaidy] |
-| [Name] | [ID] | [T#] | [username] |
+| [Adham Youssef] | [16002868] | [T9] | [adhamahmed06] |
 | [Name] | [ID] | [T#] | [username] |
 | [Name] | [ID] | [T#] | [username] |
 | [Name] | [ID] | [T#] | [username] |
@@ -48,7 +48,7 @@ Liberty & Lotus (L&L) is a made-up travel agency website for travelers from anyw
 
 | Member | Use case |
 |---|---|
-| [Name] | 1. Registration and login |
+| [Adham Ahmed] | 1. Registration and login |
 | [yehia elaidy] | 2. Manage trips (admin) |
 | [Name] | 3. Book a trip |
 | [Name] | 4. Change or cancel a booking |
